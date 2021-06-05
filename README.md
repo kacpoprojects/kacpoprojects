@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @kacpoprojects
+- 👋 Hi, I’m voidtech
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS
